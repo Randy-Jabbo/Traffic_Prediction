@@ -1,0 +1,9 @@
+{
+  "model": "linear_regression",
+  "total_usable_observations": 104819,
+  "training_observations": 83855,
+  "testing_observations": 20964,
+  "mae": 12.317569348111887,
+  "rmse": 17.854966356622096,
+  "r2": 0.9610343644088911
+}
