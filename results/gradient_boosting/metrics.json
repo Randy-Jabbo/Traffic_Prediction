@@ -1,0 +1,9 @@
+{
+  "model": "gradient_boosting",
+  "total_usable_observations": 104819,
+  "training_observations": 83855,
+  "testing_observations": 20964,
+  "mae": 11.268977793931223,
+  "rmse": 16.298536321383995,
+  "r2": 0.9675315989649643
+}
